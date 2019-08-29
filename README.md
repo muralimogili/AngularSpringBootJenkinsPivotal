@@ -1,4 +1,4 @@
- Used Jenkins pipeline functionality to achieve entire build process
+ Used Jenkins pipeline functionality to achieve entire build
  
  Build -- Test --- Deploy -- Run (Pivotal)
 
