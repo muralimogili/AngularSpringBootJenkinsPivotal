@@ -12,8 +12,8 @@ insert into taskmanager.task_list values(7,'Issue3','Issue3','MEDIUM','ACTIVE',c
 insert into taskmanager.task_list values(8,'Issue4','Issue4','MEDIUM','ACTIVE',curtime(),curtime(),0);
 insert into taskmanager.task_list values(9,'Issue5','Issue5','LOW','COMPLETED',curtime(),curtime(),0);
 insert into taskmanager.task_list values(10,'Issue6','Issue6','LOW','ACTIVE',curtime(),curtime(),0);
-insert into taskmanager.task_list values(11,'Issue5','Issue5','LOW','COMPLETED',curtime(),curtime(),0);
-insert into taskmanager.task_list values(12,'Issue6','Issue6','LOW','ACTIVE',curtime(),curtime(),0);
-insert into taskmanager.task_list values(13,'Issue5','Issue5','LOW','COMPLETED',curtime(),curtime(),0);
-insert into taskmanager.task_list values(14,'Issue6','Issue6','LOW','ACTIVE',curtime(),curtime(),0);
+insert into taskmanager.task_list values(11,'Issue7','Issue5','LOW','COMPLETED',curtime(),curtime(),0);
+insert into taskmanager.task_list values(12,'Issue8','Issue6','LOW','ACTIVE',curtime(),curtime(),0);
+insert into taskmanager.task_list values(13,'Issue9','Issue5','LOW','COMPLETED',curtime(),curtime(),0);
+insert into taskmanager.task_list values(14,'Issue10','Issue6','LOW','ACTIVE',curtime(),curtime(),0);
 select * from taskmanager.task_list;
